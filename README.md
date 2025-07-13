@@ -29,10 +29,10 @@
 
 ## 🎥 YouTube:
 📺 سيتم توثيق كل مراحل المشروع على قناتي:
-🔗 [YouTube Channel](https://www.youtube.com/@naderelabed)
+🔗 [YouTube Channel]((قريبًا))
 
 ## 📬 Contact
 - Nader Elabed 🇹🇳
-- 📧 nader@example.com
+- 📧 elabednader13@gmail.com
 - 💼 LinkedIn / Upwork (قريبًا)
 
